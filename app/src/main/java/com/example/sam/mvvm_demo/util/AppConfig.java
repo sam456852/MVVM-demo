@@ -5,4 +5,5 @@ package com.example.sam.mvvm_demo.util;
  */
 
 public class AppConfig {
+    public static final int REQUEST_CODE = 1;
 }
